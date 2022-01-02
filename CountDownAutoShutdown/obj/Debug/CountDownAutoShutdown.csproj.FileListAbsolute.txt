@@ -1,0 +1,9 @@
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\bin\Debug\CountDownAutoShutdown.exe.config
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\bin\Debug\CountDownAutoShutdown.exe
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\bin\Debug\CountDownAutoShutdown.pdb
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.Form1.resources
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.Properties.Resources.resources
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.exe
+D:\Bi\Bi Homework\OOP\Week14\CountDownAutoShutdown\CountDownAutoShutdown\obj\Debug\CountDownAutoShutdown.pdb
